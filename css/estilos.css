@@ -301,5 +301,22 @@ h2{
 	padding: 18px;
 }
 
+.mapa_mental{
+	width: 90%;
+	margin: 30px 5% 30px 5%;
+	position: relative;
+	justify-content: center;
+	display: inline-table;
+}
 
+.icon-earth{
+	color: #01DFA5;
+}
+
+.mapamental_1{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	box-shadow: 1px 1px 2px;
+}
 
